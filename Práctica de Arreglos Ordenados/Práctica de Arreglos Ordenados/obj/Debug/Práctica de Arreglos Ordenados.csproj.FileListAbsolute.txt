@@ -1,0 +1,14 @@
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\bin\Debug\Práctica de Arreglos Ordenados.exe.config
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\bin\Debug\Práctica de Arreglos Ordenados.exe
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\bin\Debug\Práctica de Arreglos Ordenados.pdb
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.csproj.AssemblyReference.cache
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.csproj.CoreCompileInputs.cache
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.exe
+C:\Users\totil\source\repos\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.pdb
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\bin\Debug\Práctica de Arreglos Ordenados.exe.config
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\bin\Debug\Práctica de Arreglos Ordenados.exe
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\bin\Debug\Práctica de Arreglos Ordenados.pdb
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.csproj.AssemblyReference.cache
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.csproj.CoreCompileInputs.cache
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.exe
+C:\Users\totil\Documents\C++\Práctica de Arreglos Ordenados\Práctica de Arreglos Ordenados\obj\Debug\Práctica de Arreglos Ordenados.pdb
